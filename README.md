@@ -13,5 +13,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/HiChat-fog/HiChat-fog/output/github-snake.svg" />
   </picture>
 </p>
-
-<script src="https://gist.github.com/HiChat-fog/52aee5d43d382cbbbc81f4026b2d6901.js"></script>
