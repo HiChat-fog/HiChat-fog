@@ -13,3 +13,5 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/HiChat-fog/HiChat-fog/output/github-snake.svg" />
   </picture>
 </p>
+
+![card](https://github.com/HiChat-fog/netease-cloud-music-card/blob/main/card.svg)
