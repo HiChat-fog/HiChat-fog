@@ -14,4 +14,4 @@
   </picture>
 </p>
 
-![card](https://github.com/HiChat-fog/netease-cloud-music-card/blob/main/card.svg)
+
