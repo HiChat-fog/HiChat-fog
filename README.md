@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/HiChat-fog">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F724A9&center=true&vCenter=true&width=600&lines=Hello+World!;I%27m+HiChat-fog;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=F724A9&center=true&vCenter=true&width=900&lines=I+don%27t+believe+in+astrology%3B+I%27m+a+Sagittarius+and+we%27re+skeptical." alt="Typing SVG" />
   </a>
 </p>
 
