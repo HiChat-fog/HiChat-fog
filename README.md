@@ -23,11 +23,10 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="80" alt="mewtwo" />
 </p>
 
-## 🛰️ 关于我
+## 关于我
 
-- 🌱 正在学 **Rust + aya**,让 eBPF 写起来更优雅
+- 正在学 **Rust+aya**
 - eBPF / Linux 内核 / RISC-V / 嵌入式 OS
-- 🎵 网易云深度用户,代码写不动了就听歌(卡片在下面 ⬇️)
 
 ## ⚡ 技术栈
 
