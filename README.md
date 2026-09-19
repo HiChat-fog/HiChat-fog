@@ -8,10 +8,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HiChat-fog/HiChat-fog/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HiChat-fog/HiChat-fog/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/HiChat-fog/HiChat-fog/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@output/github-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@output/github-snake.svg" />
   </picture>
 </p>
 
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/card.svg" alt="网易云音乐卡片" />
+</div>
