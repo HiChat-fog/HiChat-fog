@@ -17,21 +17,18 @@
   <img src="https://img.shields.io/badge/status-focusing%20%F0%9F%8E%AF-F724A9?style=flat-square" alt="status" />
 </p>
 
-<!-- ============ 宝可梦 ============ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80" alt="pikachu" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80" alt="charizard" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="80" alt="mewtwo" />
 </p>
 
-<!-- ============ 关于我(按你的真实项目写的,可自行增删) ============ -->
 ## 🛰️ 关于我
 
 - 🌱 正在学 **Rust + aya**,让 eBPF 写起来更优雅
-- 💬 欢迎交流:eBPF / Linux 内核 / RISC-V / 嵌入式 OS
+- eBPF / Linux 内核 / RISC-V / 嵌入式 OS
 - 🎵 网易云深度用户,代码写不动了就听歌(卡片在下面 ⬇️)
 
-<!-- ============ 技术栈 ============ -->
 ## ⚡ 技术栈
 
 <p align="center">
@@ -48,7 +45,6 @@
   <img src="https://img.shields.io/badge/Star%20History-F724A9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<!-- ============ GitHub 统计(深色/浅色自适应) ============ -->
 ## 📊 GitHub 统计
 
 <p align="center">
@@ -77,7 +73,6 @@
   </picture>
 </p>
 
-<!-- ============ 贪吃蛇(你原有的,保留) ============ -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@output/github-snake-dark.svg" />
@@ -86,22 +81,18 @@
   </picture>
 </p>
 
-<!-- ============ 3D 贡献图(你原有的,保留) ============ -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/profile-3d-contrib/profile-green-animate.svg?v=1" alt="3D Contributions" />
 </p>
 
-<!-- ============ 网易云音乐卡片(你原有的,保留) ============ -->
 <div align="center">
   <img src="https://cdn.jsdmirror.com/gh/HiChat-fog/netease-cloud-music-card@main/music-card.svg" alt="网易云音乐卡片" />
 </div>
 
-<!-- ============ 访客计数(不喜欢删掉这一段即可) ============ -->
 <p align="center">
   <img src="https://count.getloli.com/get/@HiChat-fog?theme=moebooru" alt="visitor count" />
 </p>
 
-<!-- ============ 线条小狗收尾 ============ -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/assets/line-dog/sleep.gif" width="150" alt="线条小狗睡了" /><br/>
   <sub>🐾 code hard, nap harder</sub>
