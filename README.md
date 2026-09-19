@@ -1,6 +1,6 @@
-<!-- ============ 顶部波浪头图(必须在最上面) ============ -->
+<!-- ============ 线条小狗头图 ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HiChat-fog&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="header" />
+  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/assets/line-dog/walkdog.gif" width="190" alt="线条小狗" />
 </p>
 
 <h1 align="center">Hi 👋, I'm HiChat-fog</h1>
@@ -53,9 +53,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HiChat-fog&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F724A9&icon_color=F724A9&text_color=C9D1D9&ring_color=F724A9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=HiChat-fog&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=F724A9&icon_color=F724A9&text_color=24292F&ring_color=F724A9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=HiChat-fog&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=F724A9&icon_color=F724A9&ring_color=F724A9" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/stats-light.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/stats-light.svg" alt="stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HiChat-fog&hide_border=true&background=0D1117&ring=F724A9&fire=F75C2E&currStreakLabel=F724A9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
@@ -66,19 +66,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HiChat-fog&layout=compact&hide_border=true&bg_color=0D1117&title_color=F724A9&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HiChat-fog&layout=compact&hide_border=true&bg_color=ffffff&title_color=F724A9&text_color=24292F" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiChat-fog&layout=compact&hide_border=true&title_color=F724A9" alt="top langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/langs-light.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/langs-light.svg" alt="top langs" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HiChat-fog&bg_color=0D1117&color=C9D1D9&line=F724A9&point=FFD700&hide_border=true&area=true&area_color=F724A9&hide_title=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=HiChat-fog&bg_color=ffffff&color=24292F&line=F724A9&point=FFD700&hide_border=true&area=true&area_color=F724A9&hide_title=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiChat-fog&line=F724A9&point=FFD700&hide_border=true&area=true&hide_title=true" alt="activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/activity-light.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/activity-light.svg" alt="activity graph" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HiChat-fog&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
 </p>
 
 <!-- ============ 贪吃蛇(你原有的,保留) ============ -->
@@ -105,7 +101,8 @@
   <img src="https://count.getloli.com/get/@HiChat-fog?theme=moebooru" alt="visitor count" />
 </p>
 
-<!-- ============ 底部波浪 + 收尾 ============ -->
+<!-- ============ 线条小狗收尾 ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/assets/line-dog/sleep.gif" width="150" alt="线条小狗睡了" /><br/>
+  <sub>🐾 code hard, nap harder</sub>
 </p>

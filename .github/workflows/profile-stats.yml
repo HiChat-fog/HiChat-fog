@@ -1,0 +1,39 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "20 17 * * *" # daily 01:20 Beijing time
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/gen_profile_stats.py"
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/gen_profile_stats.py --username "${{ github.repository_owner }}" --outdir dist
+
+      - name: Push to profile-stats branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
