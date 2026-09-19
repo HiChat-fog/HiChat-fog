@@ -15,5 +15,5 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdmirror.com/gh/HiChat-fog/netease-cloud-music-card@main/card.svg?v=4" alt="网易云音乐卡片" />
+  <img src="https://cdn.jsdmirror.com/gh/HiChat-fog/netease-cloud-music-card@main/music-card.svg" alt="网易云音乐卡片" />
 </div>
