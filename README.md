@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdmirror.com/gh/HiChat-fog/HiChat-fog@main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" />
+  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/profile-3d-contrib/profile-green-animate.svg?v=1" alt="3D Contributions" />
 </p>
