@@ -28,8 +28,6 @@
 - 正在学 **Rust+aya**
 - eBPF / Linux 内核 / RISC-V / 嵌入式 OS
 
-## ⚡ 技术栈
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,c,linux,bash,css,git,githubactions,vim&perline=12" alt="skills" />
