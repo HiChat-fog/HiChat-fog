@@ -1,3 +1,12 @@
+<!-- ============ 正在听(网易云) ============ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-light.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-light.svg" alt="正在听" width="470" />
+  </picture>
+</p>
+
 <!-- ============ 线条小狗头图 ============ -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/assets/line-dog/walkdog.gif" width="190" alt="线条小狗" />
