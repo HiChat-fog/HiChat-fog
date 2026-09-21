@@ -83,7 +83,7 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.jsdmirror.com/gh/HiChat-fog/netease-cloud-music-card@main/music-card.svg" alt="网易云音乐卡片" />
+  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-card.svg" alt="网易云音乐卡片" />
 </div>
 
 <p align="center">
