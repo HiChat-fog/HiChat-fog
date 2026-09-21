@@ -21,6 +21,9 @@
 </p>
 
 <p align="center">
+  <a href="https://hichat-fog.github.io">
+    <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-hichat--fog.github.io-F724A9?style=for-the-badge&logo=githubpages&logoColor=white" alt="个人主页" />
+  </a>
   <img src="https://img.shields.io/github/followers/HiChat-fog?style=flat-square&color=F724A9&label=followers" alt="followers" />
   <img src="https://img.shields.io/github/stars/HiChat-fog?affiliations=OWNER&style=flat-square&color=F724A9&label=stars" alt="stars" />
   <img src="https://img.shields.io/badge/status-focusing%20%F0%9F%8E%AF-F724A9?style=flat-square" alt="status" />
