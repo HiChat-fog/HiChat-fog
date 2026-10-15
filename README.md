@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/assets/line-dog/walkdog.gif" width="190" alt="线条小狗" />
 </p>
 
-<h1 align="center">Hi 👋, I'm HiChat-fog</h1>
+<h1 align="center">Hi, I'm HiChat-fog</h1>
 
 <p align="center">
   <a href="https://github.com/HiChat-fog">
