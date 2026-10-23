@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-dark.svg?v=20261023" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-light.svg?v=20261023" />
-    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-light.svg?v=20261023" alt="正在听" width="470" />
+    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-now-light.svg?v=20261023" alt="listening" width="470" />
   </picture>
 </p>
 
@@ -35,10 +35,10 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" width="80" alt="mewtwo" />
 </p>
 
-## 关于我
+## About Me
 
-- 正在学 **Rust+aya**
-- eBPF / Linux 内核 / RISC-V / 嵌入式 OS
+- Currently learning **Rust+aya**
+- eBPF / Linux kernel / RISC-V / embedded OS
 
 <p align="center">
   <a href="https://skillicons.dev">
