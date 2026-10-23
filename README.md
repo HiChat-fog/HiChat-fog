@@ -50,36 +50,7 @@
   <img src="https://img.shields.io/badge/eBPF-FF6B35?style=for-the-badge&logo=linux&logoColor=white" alt="eBPF" />
   <img src="https://img.shields.io/badge/RISC--V-7C3AED?style=for-the-badge" alt="RISC-V" />
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
-  <img src="https://img.shields.io/badge/openKylin-2E8B57?style=for-the-badge" alt="openKylin" />
   <img src="https://img.shields.io/badge/Star%20History-F724A9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## 📊 GitHub 统计
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/stats-light.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/stats-light.svg" alt="stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=HiChat-fog&hide_border=true&background=0D1117&ring=F724A9&fire=F75C2E&currStreakLabel=F724A9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=HiChat-fog&hide_border=true&background=FFFFFF&ring=F724A9&fire=F75C2E&currStreakLabel=F724A9&sideLabels=24292F&currStreakNum=24292F&dates=57606A" />
-    <img src="https://streak-stats.demolab.com/?user=HiChat-fog&hide_border=true&ring=F724A9&fire=F75C2E&currStreakLabel=F724A9" alt="streak" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/langs-light.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/langs-light.svg" alt="top langs" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/activity-light.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@profile-stats/activity-light.svg" alt="activity graph" />
-  </picture>
 </p>
 
 <p align="center">
@@ -89,14 +60,6 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@output/github-snake.svg" />
   </picture>
 </p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/HiChat-fog@main/profile-3d-contrib/profile-green-animate.svg?v=1" alt="3D Contributions" />
-</p>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/HiChat-fog/netease-cloud-music-card@main/music-card.svg?v=20261023" alt="网易云音乐卡片" />
-</div>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@HiChat-fog?theme=moebooru" alt="visitor count" />
