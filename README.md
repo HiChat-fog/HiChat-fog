@@ -37,8 +37,8 @@
 
 ## About Me
 
-- Currently learning **Rust+aya**
-- eBPF / Linux kernel / RISC-V / embedded OS
+- Currently learning **seL4**
+- eBPF / microkernel / RISC-V / embedded OS
 
 <p align="center">
   <a href="https://skillicons.dev">
